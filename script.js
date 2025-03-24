@@ -1,0 +1,1 @@
+// script.js placeholder – logica interattiva qui
